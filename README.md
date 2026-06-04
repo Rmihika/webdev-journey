@@ -6,7 +6,7 @@ Learning Full Stack Web Development through Sigma 12.
 
 ### HTML
 - [x] Lecture 01
-- [ ] Lecture 02
+- [x] Lecture 02
 - [ ] Lecture 03
 
 ### CSS
