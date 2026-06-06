@@ -8,6 +8,8 @@ Learning Full Stack Web Development through Sigma 12.
 - [x] Lecture 01
 - [x] Lecture 02
 - [x] Lecture 03
+- [ ] Lecture 04
+- [ ] Lecture 05
 
 ### CSS
 - [ ] Not Started
@@ -24,12 +26,6 @@ Learning Full Stack Web Development through Sigma 12.
 ### MongoDB
 - [ ] Not Started
 
-## Folder Structure
 
-WEBDEV/
-│
-├── html/
-│   └── Lecture01/
-│
-├── .gitignore
-└── README.md
+
+
