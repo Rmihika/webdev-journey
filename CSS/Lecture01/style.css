@@ -1,0 +1,19 @@
+h1 {
+    color: black;
+    text-align: center;
+    text-decoration:wavy underline;
+    font-family: fantasy;
+}
+
+button{
+    color: white;
+    background-color: blue;
+   
+}
+
+p{
+    color: black;
+    font-size: 20pxpx;
+    text-align: center;
+    font-family: impact;
+}
