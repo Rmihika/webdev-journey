@@ -12,7 +12,7 @@ Learning Full Stack Web Development through Sigma 12.
 
 ### CSS
 - [x] Lecture 01
-- [ ] Lecture 02
+- [x] Lecture 02
 
 ### JavaScript
 - [ ] Not Started
