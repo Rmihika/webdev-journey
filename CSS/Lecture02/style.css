@@ -46,3 +46,33 @@ color: green;
 input[ type="password"]{
 color: pink;
 }
+
+div[id="myid"] p{
+    color: deeppink;
+}
+
+button:hover{
+    background-color: #b92b27;
+}
+button:active{
+    background-color: palevioletred;
+}
+
+P:active{
+    font-weight: bold;
+    color: green;
+}
+
+input[type="radio"]:checked + label{
+    color: blue;
+    font-weight: bold;
+}
+
+input[type="radio"]:checked + label{
+    color: green;
+    font-weight: bold;
+}
+
+h1::first-letter{
+    color: blue;
+}
