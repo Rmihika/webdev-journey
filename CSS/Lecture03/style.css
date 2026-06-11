@@ -1,0 +1,40 @@
+ divv{
+    height: 200px;
+    width: 300px;
+    background-color: pink;
+    border: solid;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 15px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    margin-bottom: 25px;
+    margin-left: 20px;
+} 
+
+button{
+    border-radius: 10px;
+    border: 2px black solid ;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 7px;
+    padding-right: 7px;
+    background-color: rgb(75, 115, 246);
+    margin-top: 10px;
+}
+
+#outerdiv{
+    height: 200px;
+    width: 70px;
+    border: 2px black solid;
+    margin-top: 10px;
+}
+
+.inner{
+    height: 50PX;
+    width: 50px;
+    border: 2px black solid;
+    margin: 10px;
+    border-radius: 50px;
+}
