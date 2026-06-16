@@ -1,0 +1,38 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    text-align: center;
+    border: 3px solid black;
+    margin: 20px;
+    display: inline-block;
+}
+
+#static{
+    background-color: yellow;
+    position: static;
+    /*top: 100px;   top n left wont have any effect as position is static
+    left: 100px; */
+}
+
+#relative{
+    top: 100px;
+    left: 100px;
+    background-color: yellow;
+    position: relative;
+}
+
+#absolute{
+    background-color: yellow;
+    top: 100px;
+    bottom: 100px;
+    position: absolute;
+    /*here the shifting of the div will be measured from uppermost line which is under the url bar and the entire screens left side*/
+}
+
+#fixed{
+   background-color: yellow;
+    top: 100px;
+    bottom: 100px;
+    position: fixed; 
+}
