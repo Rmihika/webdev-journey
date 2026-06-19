@@ -5,10 +5,19 @@
    margin: 10px auto;
    border: 2px solid black; 
    display: flex;
-   flex-direction: row;
+   flex-direction: column;
    justify-content: flex-start;
    flex-wrap: wrap;
-   align-items: baseline;
+   align-content: flex-start;
+   
+}
+
+#org{
+    flex-basis: 50px;
+}
+
+#blue{
+    flex-basis: 400px;
 }
 
 h1{
