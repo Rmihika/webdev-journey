@@ -1,27 +1,17 @@
 #container{
-   height: 600px;
-   width: 75%;
-   background-color: azure;
-   margin: 10px auto;
-   border: 2px solid black; 
-   display: flex;
-   flex-direction: column;
-   justify-content: flex-start;
-   flex-wrap: wrap;
-   align-content: flex-start;
-   
+    height: 600px;
+    width: 80%;
+    background-color: azure;
+    margin: 10px auto;
+    border: 2px solid black;
+    display: flex;
+    flex-direction:column;
+    justify-content:flex-start;
+    flex-wrap: wrap;
+    align-content: flex-start;
 }
-
-#org{
-    flex-basis: 50px;
-}
-
-#blue{
-    flex-basis: 400px;
-}
-
 h1{
-    text-align: center; 
+    text-align: center;
 }
 
 #container div{
@@ -30,5 +20,13 @@ h1{
     color: white;
     text-align: center;
     font-size: 1.5em;
-    
+}
+
+#orange{
+    align-self: flex-start;
+    flex-basis: 50px;
+}
+
+#blue{
+    flex-basis: 400px;
 }
