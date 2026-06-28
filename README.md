@@ -16,6 +16,7 @@ Learning Full Stack Web Development through Sigma 12.
 - [x] Lecture 03
 - [x] Lecture 04
 - [x] Lecture 05
+- [x] Lecture 06
 
 ### JavaScript
 - [ ] Not Started
