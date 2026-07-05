@@ -48,7 +48,8 @@ button{
     font-size: 18px;
     font-weight: bold;
     cursor: pointer;
-    padding: 12px 25px;
+    padding: 12px 161px;
+    margin-bottom: 20px;
 }
 
  button:active {
@@ -63,3 +64,13 @@ button:hover{
 button:hover{
     transition: 0.3s linear;
 }
+
+.details h2{
+    margin:20px 0 10px;
+}
+
+.details p{
+    margin-top: 0;
+}
+
+
