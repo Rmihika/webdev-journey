@@ -66,8 +66,7 @@ button{
 
 button:hover{
     background-color: rgb(44, 130, 243);
-    padding-top: 15px;
-    padding-bottom: 15px;
+    
     padding-left: 75px;
     padding-right: 75px;
 }
