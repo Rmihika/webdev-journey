@@ -10,5 +10,5 @@ let age = 18;
 if(age>=18){
     console.log(`u are an adult as u are ${age}`);
 } else{
-    console.log(`u are a minor`);
+    console.log(`u are a minor as u are under 18`);
 }
