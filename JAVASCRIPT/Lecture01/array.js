@@ -8,3 +8,5 @@ let info=["mihika", 19, 89.09]; //mixed array
 
 console.log(`at 1st position we have: ${info[1]}`)
 console.log(`at 1st position we have: ${info[7]}`);
+console.log(`at 1st position we have: ${info[2]}`);
+
