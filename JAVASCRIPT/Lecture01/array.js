@@ -10,3 +10,8 @@ console.log(`at 1st position we have: ${info[1]}`)
 console.log(`at 1st position we have: ${info[7]}`);
 console.log(`at 1st position we have: ${info[2]}`);
 
+let fruits[10]
+ fruits=["apple", "banana" , "mango"];
+fruits[0]="litchy";
+console.log(fruits);
+// console.log(fruits[2]); //mango
