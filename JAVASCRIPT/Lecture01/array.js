@@ -11,7 +11,13 @@ console.log(`at 1st position we have: ${info[7]}`);
 console.log(`at 1st position we have: ${info[2]}`);
 
 
- fruits=["apple", "banana" , "mango"];
+let fruits=["apple", "banana" , "mango"];
 fruits[0]="litchy";
 console.log(fruits);
-// console.log(fruits[2]); //mango
+
+let fruitts=["apple", "banana", "litchy"];
+
+fruitts[10]="strawberry";
+console.log(fruitts); 
+
+
