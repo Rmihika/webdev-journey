@@ -12,3 +12,6 @@ let colors2=["white", "purple", "pink"];
 
 colors1.sort();
 
+let nums=[[1,2], [3,4], [5,6]]; //nested array
+
+let game=[['x', 'null','O'],['null','x','null'],['O','null','x']];
