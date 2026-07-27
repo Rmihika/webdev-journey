@@ -15,9 +15,8 @@
 }
 
 .container{
-    width: 100vh;
+    width: 100vw;
     height: 100vh;
-    overflow-x: none;
     background-color: #d4dfed;
 }
 
@@ -56,6 +55,32 @@ nav{
 background: #93D7E2;
 background: linear-gradient(315deg, #93D7E2, #032AEF);
 color: azure;
+text-align: center;
+min-height: 30px;
 }
 
+.footerbox p{
+    color: azure;
+    font-size: 1rem;
+}
+
+.contentbox{
+    width: 70%;
+    margin: auto;
+    border: 1px solid black;
+    background-color: white;
+}
+
+.item{
+    display: flex;
+    justify-content: space-between;
+}
+
+.rightbox img{
+    height: 400px;
+}
+
+.barfi{
+    width: 400px;
+}
 
