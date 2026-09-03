@@ -13,3 +13,4 @@ const calculator ={
         return a/b;
     }
 }
+
